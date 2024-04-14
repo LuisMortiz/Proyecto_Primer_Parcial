@@ -1,4 +1,4 @@
-#Segundo parcial 
+#Segundo parcial#
 se vieron los temas abrodados de el primer parcial y se implemento en un crud de php 
 se relizo la creacion de varias secciones las cuales presentaron varias de las practicas pasadas
 
