@@ -9,7 +9,7 @@ comenzamos con un loguin el cual se tomo de bootstrap y se validaron los campos 
 # inicio 
 en esta seccion tenemos el inicio donde nos manda el login una vez validado nuestro nombre y usuario
 ![image](https://github.com/LuisMortiz/Proyecto_Primer_Parcial/assets/159592203/881f7860-7929-4d99-b259-f642b1cde5ec)
-#clientes,personas,sucursales,perfiles
+# clientes,personas,sucursales,perfiles
 estas secciones estan constituidas de la misma forma y contienen los mismos atributos los cuales son generadores de pdf,excel y  print los cuales se usaron con libreria de datatable.
 ![image](https://github.com/LuisMortiz/Proyecto_Primer_Parcial/assets/159592203/8d334b52-2d16-41df-b253-ee875d6ce7ad)
 ![image](https://github.com/LuisMortiz/Proyecto_Primer_Parcial/assets/159592203/67cbf14c-4721-4eb9-9b3d-6f591b57819e)
